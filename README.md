@@ -1,7 +1,6 @@
 # iroo-tool-v0.3
-======================
 
-Bot tool pour aider a la création de vos serveur , ceci et l'apo bot on version iroo  !
+> *Bot tool pour aider a la création de vos serveur , ceci et l'apo bot on version iroo  !*
 
 # Instalation
 
@@ -9,9 +8,9 @@ Bot tool pour aider a la création de vos serveur , ceci et l'apo bot on version
 
 # Config
 
-Aller dans le fichier config json ouvrer le avec le bloc note ou votre editeur de texte et metter le token de votre bot dans token
-et metter votre id dans owner pour avoir full perm sur le bot !
+> *Aller dans le fichier config json ouvrer le avec le bloc note ou votre editeur de texte et metter le token de votre bot dans token
+et metter votre id dans owner pour avoir full perm sur le bot !*
 
 # Fin
 
-J'éspére aider  quelque un d'entre vous (désoler pour les fautes x) )
+> *J'éspére aider  quelque un d'entre vous* (désoler pour les fautes x) )
