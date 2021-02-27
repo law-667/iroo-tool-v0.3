@@ -1,6 +1,6 @@
 # iroo-tool-v0.3
 
-> *Bot tool pour aider a la création de vos serveur , ceci et l'apo bot on version iroo  !*
+> *Bot tool pour aider a la création de vos serveur , ceci et l'apo bot en version iroo (v0.3)  !*
 
 # Instalation
 
